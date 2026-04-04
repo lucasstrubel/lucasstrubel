@@ -1,8 +1,4 @@
-# Hi there 👋
-
-Welcome to my GitHub profile.
-
-![Profile Banner](https://github.com/user-attachments/assets/40a4884c-6e0b-41a2-b317-e6b5457f9885)
+![Profile Banner](https://github.com/user-attachments/assets/3fe8297c-e633-4bb2-ae24-6af2247fff83)
 
 ---
 
